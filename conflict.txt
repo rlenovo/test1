@@ -1,2 +1,4 @@
 branch = test_conflict
 branch = develop
+2nd conflict
+	develop branch, conflict generation
