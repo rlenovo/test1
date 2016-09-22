@@ -1,1 +1,3 @@
 branch = test_conflict
+2nd test_conflict
+      conflict test branch, never merged
